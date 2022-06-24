@@ -1,5 +1,7 @@
 import random
 
+print('Hello World!')
+
 
 def game():
     Correct = 0
